@@ -10,7 +10,7 @@
 void positive_or_negative_check(int i)
 {
 if (i < 10)
-printf("%d is negative", i);
+printf("%d is negative\n", i);
 else
-printf("%d is positive", i);
+printf("%d is positive\n", i);
 }
